@@ -1,0 +1,20 @@
+[Base]
+token =
+prefix =
+dev_server =
+version =
+mode =
+
+[Librairies]
+jda_version =
+
+[Path]
+image_path =
+logs_path =
+
+[database]
+login=
+password=
+db_name=
+url=
+port=
